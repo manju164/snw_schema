@@ -1,4 +1,4 @@
-CREATE SCHEMA IF NOT EXISTS demo.hrdata;
+CREATE SCHEMA IF NOT EXISTS MYDB1.hrdata;
 
 -- Create Tables
 CREATE TABLE IF NOT EXISTS hrdata.employees
